@@ -6,8 +6,10 @@
     "\\src\\components\\layout",
     "\\src\\components\\pages",
     "\\src\\components\\repos",
-    "\\src\\components\\users"
+    "\\src\\components\\users",
+    "\\src\\context",
+    "\\src\\context\\github"
   ],
-  "SelectedNode": "\\src\\components\\repos\\RepoItem.js",
+  "SelectedNode": "\\src\\components\\users\\User.js",
   "PreviewInSolutionExplorer": false
 }
